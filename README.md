@@ -1,3 +1,3 @@
 User 2 added a line
 
-User 2 added another line
+User 1 and User 2 added a line
